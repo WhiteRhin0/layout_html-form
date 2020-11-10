@@ -14,3 +14,7 @@
 .cat {
   display: inline;
 }
+
+#year_old {
+  width: 65px;
+}
