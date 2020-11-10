@@ -1,0 +1,20 @@
+.field {
+  margin: 0 0 20px;
+}
+
+.our-label {
+  display: block;
+  margin: 0 0 10px;
+}
+
+.field .our-label:last-child {
+  margin-bottom: 0;
+}
+
+.cat {
+  display: inline;
+}
+
+.cats {
+  margin-bottom: 10px;
+}
