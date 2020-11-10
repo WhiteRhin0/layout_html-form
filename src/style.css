@@ -1,10 +1,10 @@
 .field {
-  margin: 0 0 20px;
+  margin-bottom: 20px;
 }
 
 .our-label {
   display: block;
-  margin: 0 0 10px;
+  margin-bottom: 10px;
 }
 
 .field .our-label:last-child {
@@ -13,8 +13,4 @@
 
 .cat {
   display: inline;
-}
-
-.cats {
-  margin-bottom: 10px;
 }
